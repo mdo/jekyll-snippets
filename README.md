@@ -32,4 +32,4 @@ Have a suggestion or bug fix? Open a pull request or issue. I'd be happy to have
 
 ## License
 
-Released under [MIT](LICENSE).
+Licensed under [MIT](LICENSE).
