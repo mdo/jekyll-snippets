@@ -1,0 +1,24 @@
+{% comment %}
+  Shows a list of people's avatars and names, pulled from a data file named `people.yml` in `_data` with the following contents:
+  
+  ```
+    - name: First last
+      img: first-last
+      url: http://example.com
+
+    - name: First last
+      img: first-last
+      url: http://example.com
+  ```
+{% endcomment %}
+
+<ul>
+  {% for person in site.data.people %}
+    <li>
+      <img src="{{ person.img }}.jpg" alt="{{ person.name }}">
+      <a href="{{ person.url }}" title="{{ person.name }}">
+        {{ person.name }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
