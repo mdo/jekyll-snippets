@@ -1,5 +1,5 @@
 {% comment %}
-  The code below dynamically generates a list of page links with `layout: page` in the front-matter.
+  Dynamically generates a list of links to pages with `layout: page` in the front-matter, sorted alphabetically by URL.
 {% endcomment %}
 
 {% assign pages_list = site.pages | sort:"url" %}
