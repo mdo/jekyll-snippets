@@ -9,6 +9,7 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 - [List of titles and dates]() for archive or condensed index pages.
 - [Series of full posts]() with titles, links, and post body content.
 - [Related posts]() based on time.
+- [Paginated list of posts](http://jekyllrb.com/docs/pagination/).
 
 ### Pages
 
