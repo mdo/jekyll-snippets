@@ -6,18 +6,25 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 
 ### Posts
 
-- [List of titles and dates]() for archive or condensed index pages.
-- [Series of full posts]() with titles, links, and post body content.
-- [Related posts]() based on time.
+- [List of posts](posts-list.html) for archive or condensed index pages.
+- [List of posts by year](posts-archive-by-year.html) for archive pages.
+- [Series of full posts](posts-full.html) with titles, links, and post body content.
+- [Related posts](posts-related.html) based on time.
+- [List of posts in a category](posts-in-category.html).
 - [Paginated list of posts](http://jekyllrb.com/docs/pagination/).
 
 ### Pages
 
-- [Navigation with active class]() for linking pages with the `layout: page`.
+- [Navigation with active class](pages-nav.html) for linking pages with the `layout: page`.
 
 ### Data
 
-- [List of items]() from a particular `.yml` file in the `_data` directory
+- [List of items](data-list.html) from a particular `.yml` file in the `_data` directory.
+
+### Time
+
+- [Current year](time-current-year.html).
+- [Current date](time-month-day-year.html) as full month, day, and year.
 
 ## Contributing
 
