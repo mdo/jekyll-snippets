@@ -12,6 +12,7 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 - [Related posts](posts-related.html) based on time.
 - [List of posts in a category](posts-in-category.html).
 - [Paginated list of posts](http://jekyllrb.com/docs/pagination/).
+- [Link to next post](posts-next-post.html).
 
 ### Pages
 
