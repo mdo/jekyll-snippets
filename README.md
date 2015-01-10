@@ -23,7 +23,7 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 
 ### Time
 
-- [Current year](time-current-year.html).
+- [Current year](time-current-year.html) for things like copyright.
 - [Current date](time-month-day-year.html) as full month, day, and year.
 
 ### Feeds
