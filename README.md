@@ -1,6 +1,6 @@
 # Jekyll snippets
 
-I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as well as [Bootstrap's documentation](http://getbootstrap.com) and a [family of themes](http://getpoole.com). This repository serves as a library of commonly used Jekyll snippets. Use them as your heart desires.
+I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as well as [Bootstrap's documentation](http://getbootstrap.com) and a [family of themes](http://getpoole.com). This repository serves as a library of commonly used Jekyll snippets.
 
 ## Contents
 
