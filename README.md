@@ -26,6 +26,10 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 - [Current year](time-current-year.html).
 - [Current date](time-month-day-year.html) as full month, day, and year.
 
+### Feeds
+
+- [Basic Atom feed generator](atom.xml)
+
 ## Contributing
 
 Have a suggestion or bug fix? Open a pull request or issue. I'd be happy to have more snippets here. Update the list above and include the snippet with a clear file name and simple markup.
