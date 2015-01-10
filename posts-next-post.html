@@ -1,0 +1,9 @@
+{% if page.next %}
+<div class="next-post">
+  <h2>Up Next:</h2>
+
+  <a href="{{ page.next.url }}">
+    {{ page.next.title }}
+  </a>
+</div>
+{% endif %}
