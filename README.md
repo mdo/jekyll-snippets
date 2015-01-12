@@ -18,6 +18,10 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 
 - [Navigation with active class](pages-nav.html) for linking pages with the `layout: page`.
 
+### Layout
+
+- [Page title with site title fallback](layout-page-title.html)
+
 ### Data
 
 - [List of items](data-list.html) from a particular `.yml` file in the `_data` directory.
