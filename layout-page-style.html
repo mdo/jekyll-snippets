@@ -1,3 +1,19 @@
+{% comment %}
+Add the snippet below to your layout to provide override styles on a per-page basis. For example:
+
+```
+---
+layout: page
+title: History
+
+style: |
+  .element {
+    background-color: #333;
+  }
+---
+```
+{% endcomment %}
+
 {% if page.style %}
   <style>
     {{ page.style }}
