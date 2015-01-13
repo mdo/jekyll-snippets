@@ -21,6 +21,7 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 ### Layout
 
 - [Page title with site title fallback](layout-page-title.html)
+- [Page additional styles](layout-page-style.html) for style exceptions in individual pages.
 
 ### Data
 
