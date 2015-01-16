@@ -1,6 +1,10 @@
+{% comment %}
+  Paste within a post layout. Change `content` to `page.content` if used within a layout file.
+{% endcomment %}
+
 {% capture words %}
-  {{ page.content | number_of_words | minus: 180 }}
+  {{ content | number_of_words | minus: 180 }}
 {% endcapture %}
 {% unless words contains "-" %}
-  <span class="reading-time">{{ words | plus: 180 | divided_by: 180 | pluralize: "minute to read", "minutes to read" }}</span>
+  {{ words | plus: 180 | divided_by: 180 | append: " minutes to read" }}
 {% endunless %}
