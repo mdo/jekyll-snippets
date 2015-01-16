@@ -1,0 +1,6 @@
+{% capture words %}
+  {{ page.content | number_of_words | minus: 180 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  <span class="reading-time">{{ words | plus: 180 | divided_by: 180 | pluralize: "minute to read", "minutes to read" }}</span>
+{% endunless %}
