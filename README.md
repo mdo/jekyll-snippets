@@ -13,7 +13,7 @@ I'm a big fan of Jekyll. I've built [my blog](http://markdotto.com) on it, as we
 - [List of posts in a category](posts-in-category.html).
 - [Paginated posts](posts-pagination.html) with `<span>`s, `<a>`s, classes, and more.
 - [Link to next post](posts-next-post.html).
-- [Reading time](reading-time.html)
+- [Reading time](posts-reading-time.html)
 
 ### Pages
 
